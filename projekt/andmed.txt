@@ -1,0 +1,14 @@
+﻿How many calories does banging your head against the wall for an hour burn?\150
+Name a country in which it's illegal to own just one guinea pig?\Switzerland
+What can snakes help predict?\Earthquakes
+How do you call a flock of crows?\a murder
+How many American adults believe that chocolate milk comes from brown cows?\7%
+Kuidas nimetatakse hulka f(X) = {f(x): x ∈ X}\Muutumispiirkond
+Mis funktsioon seab reaalarvule x vastavusse suurima temast väiksema või võrdse täisarvu?\Põrandafunktsioon
+Mis funktsioon seab reaalarvule x vastavusse väikseima temast suurema või võrdse täisarvu?\Laefunktsioon
+Kui x ∈ X ja y ∈ Y on sellised, et y = f(x), siis elementi y nimetatakse elemendi x ...?\kujutiseks
+Kui x ∈ X ja y ∈ Y on sellised, et y = f(x), siis elementi x nimetatakse funktsiooni f elemendi y ...?\originaaliks
+Elemendi y originaalide hulka tähistame sümboliga ...?\f-1({y})
+Kui funktsiooni f: X -> Y iga paari x1,x2 ∈ X, x1 =/= x2 korral f(x1) =/= f(x2) siis seda nimetatakse ...?\injektiivseks
+Kui funktsiooni f: X -> Y iga y ∈ Y jaoks leidub selline x ∈ X, et y = f(x) siis seda nimetatakse ...?\sürjektiivseks
+Kui funktsioon f: X -> Y on nii injektiivne kui sürjektiivne, siis seda nimetatakse ...?\bijektiivseks
